@@ -1,0 +1,47 @@
+#heading,.footer{
+    color:white;
+    font-family:sans-serif;
+    height: 80px;
+    background-color:#3e5185;
+    padding-left: 22%;
+    padding-top:10px;
+    
+}
+
+#nav{
+    text-align: center;
+}
+.label{
+    width:150px;
+    display:inline-block;
+    text-align: left;
+}
+#button
+{   
+    background-color:#3e5185;
+    color: white;
+}
+#frm{
+    text-align: center;
+}
+#banner{
+    height:550px;
+    background-color: #ccdaeb;
+    padding-top:10px;
+}
+#imgcontent{
+    text-align: center;
+}
+
+.Pagetext{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size:20px;
+}
+
+@media(min-width:700px){
+    #img{
+        width:600px;
+        height: 350px;
+    }
+}
